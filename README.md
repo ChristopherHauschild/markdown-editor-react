@@ -6,7 +6,7 @@ Esta aplicação consiste num editor markdown que permite ao usuário preencher 
 
 <hr>
 <p align="center">
-  <img width="900px" src="https://github.com/ChristopherHauschild/GitHubApp-React.js/blob/master/GithubApp.gif?raw=true" />
+  <img width="900px" src="https://github.com/ChristopherHauschild/markdown-editor-react/blob/master/ME.gif?raw=true" />
  </p>
 
 ## Linguagens e tecnologias utilizadas: :computer:
