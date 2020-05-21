@@ -21,7 +21,7 @@ Esta aplicação consiste num editor markdown que permite ao usuário preencher 
 
 ## Instalação: :rocket:
 
-- Clone este repositório: `https://github.com/ChristopherHauschild/GitHubApp-React.js/.git`;
+- Clone este repositório: `https://github.com/ChristopherHauschild/markdown-editor-react/.git`;
 - Remova o diretório `.git`;
 - Instale as dependências: `npm i` ou `yarn`;
 - Rode `npm start` ou `yarn start` para desenvolvimento em `http://localhost:3000`
